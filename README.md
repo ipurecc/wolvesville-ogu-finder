@@ -83,7 +83,7 @@ The script will start checking usernames and dynamically update the console.
 
 ## 📊 Example Output
 
---
+--\
  CHECKED: 7\
  VALID:   2\
  FAILED:  5
