@@ -55,7 +55,7 @@ Shadow\
 Gamer\
 Legend\
 NightWolf\
-ProPlayer\
+ProPlayer
 
 Save the file and ensure it's in the same directory as the script.
 
