@@ -37,7 +37,7 @@ Log in to your account\
 Open Developer Tools (Press F12 on PC or use a tool like Charles Proxy on mobile)\
 Find a request sent to the API\
 Open Network tab\
-Look for a request to https://core.api-wolvesville.com/players/self\
+Look for a request to https://wolvesville.com (or something similar)\
 Look for the Authorization header\
 Copy the Bearer Token (It looks like: eyXxXXxxXxxX...)\
 Paste the token into the script\
