@@ -88,23 +88,23 @@ The script will start checking usernames and dynamically update the console.
  VALID:   2\
  FAILED:  5
 --
-[SUCCESS] - Shadow\
-[SUCCESS] - NightWolf
+**[SUCCESS]** - Shadow\
+**[SUCCESS]** - NightWolf
 
 ✔ Valid usernames are shown in green.\
 ❌ Taken usernames are counted but not displayed.
 
 ## ❓ FAQ
-###🔹 Why do I need a Bearer Token?
+🔹**Why do I need a Bearer Token?**\
 Wolvesville requires authentication to change usernames. Your token allows the script to check availability.
 
-###🔹 How long does the Bearer Token last?
+🔹 **How long does the Bearer Token last?**\
 Tokens expire after some time. If the script stops working, get a new Bearer Token using the steps above.
 
-###🔹 Can I check usernames randomly instead of using a wordlist?
+🔹 **Can I check usernames randomly instead of using a wordlist?**\
 Yes, you can modify the script to generate random usernames instead.
 
-###🔹 Can I check usernames faster?
+🔹 **Can I check usernames faster?**\
 Yes, but lowering the DELAY too much might get you blocked by the API.
 
 ### ⚠️ Disclaimer
