@@ -43,7 +43,7 @@ Copy the Bearer Token (It looks like: eyXxXXxxXxxX...)\
 Paste the token into the script\
 Open script.py and replace this line:\
 TOKEN = "ENTER_BEARER_TOKEN_HERE"\
-Paste your Bearer Token inside the quotes.\
+Paste your Bearer Token inside the quotes.
 
 ## 📜 Adding a Wordlist (wordlist.txt)
 The script reads usernames from a wordlist file and checks them one by one.
@@ -57,12 +57,12 @@ Legend\
 NightWolf\
 ProPlayer\
 
-Save the file and ensure it's in the same directory as the script.\
+Save the file and ensure it's in the same directory as the script.
 
 
 ### ⏳ Adjusting Request Delay
 By default, the script waits 0.2 seconds between each request.\
-You can change the delay to avoid API rate-limiting.\
+You can change the delay to avoid API rate-limiting.
 
 ## 🔧 How to Change the Delay
 Open script.py\
@@ -72,14 +72,14 @@ DELAY = 0.2  # Lower = faster, higher = safer\
 Change the number:\
 Faster requests (Risk of getting blocked): DELAY = 0.1\
 Safer but slower: DELAY = 0.5\
-Very safe: DELAY = 1.0\
+Very safe: DELAY = 1.0
 
 
 ## 🏃‍♂️ Running the Script
 Run the script with:\
 python script.py\
 
-The script will start checking usernames and dynamically update the console.\
+The script will start checking usernames and dynamically update the console.
 
 ## 📊 Example Output
 
