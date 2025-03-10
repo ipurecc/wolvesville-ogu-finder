@@ -77,7 +77,7 @@ Very safe: DELAY = 1.0
 
 ## 🏃‍♂️ Running the Script
 Run the script with:\
-python script.py\
+python script.py
 
 The script will start checking usernames and dynamically update the console.
 
@@ -86,10 +86,10 @@ The script will start checking usernames and dynamically update the console.
 --
  CHECKED: 7\
  VALID:   2\
- FAILED:  5\
+ FAILED:  5
 --
 [SUCCESS] - Shadow\
-[SUCCESS] - NightWolf\
+[SUCCESS] - NightWolf
 
 ✔ Valid usernames are shown in green.\
 ❌ Taken usernames are counted but not displayed.
